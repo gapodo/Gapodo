@@ -1,0 +1,5 @@
+- Hi, I’m Michael (@Gapodo)
+- I'm a sysadmin focusing on Linux, Kubernetes and VMware vSphere
+- I'm a part time student, studing computer science with a focus on digital innovation
+- Currently trying to focus on DevOps and IaC
+- As a student project I'm developing a project called @trash2gather in a team of 4.
