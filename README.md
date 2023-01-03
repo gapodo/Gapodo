@@ -9,4 +9,4 @@ You want to contact me?
 - Matrix (the way to go :D) @gapodo:kle.li
 - Email (the good old way) gapodo at geekvoid.net
 
-My code is becoming mostly mirrored from my [Gitea](https://gitea.io) instance at https://git.kle.li and built by my own CI instances for [Gitea](https://ci.kle.li) and [Github](https://github-ci.kle.li) powered by the the awsome [Woodpecker CI](https://woodpecker-ci.org/) project.
+My code is becoming mostly mirrored from my [Forgejo](https://forgejo.org) instance at https://git.kle.li and built by my own CI instances for [Forgejo](https://ci.kle.li) and [Github](https://github-ci.kle.li) powered by the the awsome [Woodpecker CI](https://woodpecker-ci.org/) project.
